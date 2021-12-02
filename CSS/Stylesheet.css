@@ -110,9 +110,9 @@
     .navigation
     {
       width: 100%;
-      height: 20%;
+      height: 100%;
       top: 0;
-      position: fixed;
+      position: sticky;
     }
     .navigation .navbar .logo-toggle-container {
       position: static;
